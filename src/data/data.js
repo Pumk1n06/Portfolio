@@ -19,10 +19,10 @@ export const data=[
     },
     {
         id:3,
-        name:"Quiz App",
+        name:"Currency Converter",
         image:Quiz,
-        github:"https://github.com/Pumk1n06/Quiz-app",
-        live:"https://quiz-app-ashy-iota.vercel.app/",
+        github:"https://github.com/Pumk1n06/Currency-Converter",
+        live:"https://currency-converter-chi-ebon.vercel.app/",
     },
     
 
